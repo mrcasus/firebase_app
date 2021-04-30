@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819073172668",
+    "project_id": "fir-mobim-1ae47",
+    "storage_bucket": "fir-mobim-1ae47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819073172668:android:8bba9f41a1ff45d34ebcb9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_mobim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819073172668-ckab1dvmac24scv1nvke10p6u5undsmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc0g4GphMeM5n9IyI-aYKGTpLfPW1x4Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819073172668-ckab1dvmac24scv1nvke10p6u5undsmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
